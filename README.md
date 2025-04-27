@@ -1,11 +1,11 @@
-# Iron Condor Options Simulator
+# **Iron Condor Options Simulator**
 This Iron Condor Options Strategy Simulator is something I created to study the profitability of the Iron Condor Option Strategy.  It is regarded as one of the options strategy with the best return/risk ratios.  I created this code to study the profitability among different stocks and spread sizes using real market data pulled from yfinance.
 
 To run just copy and paste the code in a Google Colab and execute it.  This is where the code was developed and tested.
 
 ## Concepts:
 
-# How to Use for Comparison:
+### How to Use for Comparison:
 Run for AAPL: Set ticker = "AAPL" and run the entire script. Note down the printed values for:
 XX-Day Historical Volatility (Annualized): (e.g., 0.2235 or 22.35%)
 Average Implied Volatility of Selected Options: (e.g., 0.2450 or 24.50%)
